@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pavlov-job-agency/static/css/main.693ab62a.chunk.css",
+    "main.js": "/pavlov-job-agency/static/js/main.ce8474d8.chunk.js",
+    "main.js.map": "/pavlov-job-agency/static/js/main.ce8474d8.chunk.js.map",
+    "runtime-main.js": "/pavlov-job-agency/static/js/runtime-main.6b9ac735.js",
+    "runtime-main.js.map": "/pavlov-job-agency/static/js/runtime-main.6b9ac735.js.map",
+    "static/js/2.6b3f7486.chunk.js": "/pavlov-job-agency/static/js/2.6b3f7486.chunk.js",
+    "static/js/2.6b3f7486.chunk.js.map": "/pavlov-job-agency/static/js/2.6b3f7486.chunk.js.map",
+    "index.html": "/pavlov-job-agency/index.html",
+    "static/css/main.693ab62a.chunk.css.map": "/pavlov-job-agency/static/css/main.693ab62a.chunk.css.map",
+    "static/js/2.6b3f7486.chunk.js.LICENSE.txt": "/pavlov-job-agency/static/js/2.6b3f7486.chunk.js.LICENSE.txt",
+    "static/media/car.f9124bd0.jpg": "/pavlov-job-agency/static/media/car.f9124bd0.jpg",
+    "static/media/deposit.cd902421.jpg": "/pavlov-job-agency/static/media/deposit.cd902421.jpg",
+    "static/media/house.36c4fe0c.jpg": "/pavlov-job-agency/static/media/house.36c4fe0c.jpg",
+    "static/media/app.scss": "/pavlov-job-agency/static/media/secondary-bg.6623a27e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b9ac735.js",
+    "static/js/2.6b3f7486.chunk.js",
+    "static/css/main.693ab62a.chunk.css",
+    "static/js/main.ce8474d8.chunk.js"
+  ]
+}
