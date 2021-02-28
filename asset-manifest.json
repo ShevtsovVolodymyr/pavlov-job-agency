@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pavlov-job-agency/static/css/main.7f3a2305.chunk.css",
-    "main.js": "/pavlov-job-agency/static/js/main.93ad3f55.chunk.js",
-    "main.js.map": "/pavlov-job-agency/static/js/main.93ad3f55.chunk.js.map",
+    "main.js": "/pavlov-job-agency/static/js/main.83d517e0.chunk.js",
+    "main.js.map": "/pavlov-job-agency/static/js/main.83d517e0.chunk.js.map",
     "runtime-main.js": "/pavlov-job-agency/static/js/runtime-main.6b9ac735.js",
     "runtime-main.js.map": "/pavlov-job-agency/static/js/runtime-main.6b9ac735.js.map",
     "static/js/2.c3240a8d.chunk.js": "/pavlov-job-agency/static/js/2.c3240a8d.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.6b9ac735.js",
     "static/js/2.c3240a8d.chunk.js",
     "static/css/main.7f3a2305.chunk.css",
-    "static/js/main.93ad3f55.chunk.js"
+    "static/js/main.83d517e0.chunk.js"
   ]
 }
